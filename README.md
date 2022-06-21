@@ -1,1 +1,1 @@
-## (initramfs) fsck /dev/sda1
+`(initramfs) fsck /dev/sda1``
