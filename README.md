@@ -5,3 +5,5 @@
 ### digite o comando para corrigir o problema:
 
     (initramfs) fsck /dev/sda1
+
+### ou vai mudando o final /sda2, /sda3, /sda4, /sda5
